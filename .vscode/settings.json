@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/hadoop-common-2.7.1.jar",
+        "/home/hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.1.jar",
+        "/home/hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.1.jar",
+        "/home/hadoop/hadoop_installs/hadoop-2.7.1/share/hadoop/common/lib/hadoop-annotations-2.7.1.jar"
+    ]
+}
